@@ -1,0 +1,5 @@
+Outer box: 18.5cm, 23.6cm
+Inner box: 15.4cm, 20.5cm
+ 
+
+8 1 20 5
