@@ -1,3 +1,4 @@
+Amazon
 Outer box: 18.5cm, 23.6cm
 Inner box: 15.4cm, 20.5cm
  
@@ -5,3 +6,12 @@ Inner box: 15.4cm, 20.5cm
 8 1 20 5
 
 max 8 layers
+
+Michaels
+Outer box: 19.3cm, 24.0cm
+Inner box: 15.4cm, 20.5cm
+
+
+Cut settings depth,force,passes,speed
+65lb shimmer cardstock black 7,22,1,8
+65lb foil cardstock primary colours 7,24,1,9
